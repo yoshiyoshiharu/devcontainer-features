@@ -1,0 +1,9 @@
+{
+    "name": "git-delta",
+    "id": "git-delta",
+    "version": "1.0.0",
+    "description": "Installs git-delta",
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
